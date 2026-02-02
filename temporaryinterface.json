@@ -59,6 +59,14 @@
         {
             "url": "https://6492.kstore.space/xnf/xnf.json",
             "name": "🥬15-小脑斧测试"
+        },
+        {
+            "url": "https://6492.kstore.space/xnf/xnf.json",
+            "name": "🥬16-小脑斧测试2"
+        },
+        {
+            "url": "https://4708.kstore.space/tvbox/api.json",
+            "name": "🥬17-拾光测试"
         }         
     ]
 }
