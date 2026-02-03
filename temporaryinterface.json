@@ -58,15 +58,27 @@
         },
         {
             "url": "https://6492.kstore.space/xnf/xnf.json",
-            "name": "🥬15-小脑斧测试"
+            "name": "📏15-小脑斧测试"
         },
         {
             "url": "https://6492.kstore.space/xnf/xnf.json",
-            "name": "🥬16-小脑斧测试2"
+            "name": "📏16-小脑斧测试2"
         },
         {
-            "url": "https://4708.kstore.space/tvbox/api.json",
-            "name": "🥬17-拾光测试"
+            "url": "https://ym.wya6.cn/",
+            "name": "📏17-无意云"
+        },
+        {
+            "url": "https://gitee.com/yiwu369/6758/raw/master/%E9%9D%92%E9%BE%99/1.json",
+            "name": "📏18-青龙"
+        },
+        {
+            "url": "https://tv.xn--yhqu5zs87a.top",
+            "name": "📏19-菜妮丝"
+        },
+        {
+            "url": "http://pandown.pro/tvbox/tvbox.jsonp",
+            "name": "📏20-巧儿"
         }         
     ]
 }
